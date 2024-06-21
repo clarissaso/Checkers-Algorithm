@@ -1,6 +1,6 @@
 # **Checkers-Algorithm**
 
-Checkers, or draughts, is a strategy board game played by two players. There are many variants of checkers. For a guide to checker’s families and rules, see https://www.fmjd.org/downloads/Checkers_families_ and_rules.pdf. Your task is to implement a program that reads, prints, and plays our variant of the game.
+Checkers, or draughts, is a strategy board game played by two players. There are many variants of checkers. Your task is to implement a program that reads, prints, and plays our variant of the game.
 
 ![Screen Shot 2024-06-22 at 01 11 53](https://github.com/clarissaso/Checkers-Algorithm/assets/80309625/02197e57-55e9-453a-af0a-fbe80c4547a5)
 
